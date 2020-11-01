@@ -1,0 +1,1 @@
+﻿export const isNotEmpty = value => /\S/.test(value);
