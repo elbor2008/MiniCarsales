@@ -1,5 +1,5 @@
 
-# Cloud Products Application
+# Mini Carsales Application
 The application is built for customers to view the available cars and create new car.
 The application is built with front end using React 16.12.0 and back end using ASP.NET Core 3.1
 ## Getting started
